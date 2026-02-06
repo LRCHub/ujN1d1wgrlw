@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Clarity",
+  "base_artist": "Vance Joy",
+  "createdAt": "2026-02-06T06:07:19.517824Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "State of Clarity (feat. Common & Bob James)",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/01_State_of_Clarity_(feat._Common_&_Bob_James)_Guru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "State Of Clarity (Ft. Common Bob James)",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/02_State_Of_Clarity_(Ft._Common_Bob_James)_Guru.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CLARITY",
+      "artist": "Jacob Collier",
+      "has_synced": false,
+      "path": "select/03_CLARITY_Jacob_Collier.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Clarity in Kerosene",
+      "artist": "nothing,nowhere.",
+      "has_synced": true,
+      "path": "select/04_Clarity_in_Kerosene_nothing,nowhere..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "clarity in kerosene - one take",
+      "artist": "nothing,nowhere.",
+      "has_synced": false,
+      "path": "select/05_clarity_in_kerosene_-_one_take_nothing,nowhere..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gone (Clarence Clarity Remix)",
+      "artist": "Charli XCX feat. Christine and the Queens",
+      "has_synced": false,
+      "path": "select/06_Gone_(Clarence_Clarity_Remix)_Charli_XCX_feat._Christine_and_the_Queens.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gone (feat. Christine and the Queens) (Clarence Clarity Remix)",
+      "artist": "Charli XCX",
+      "has_synced": false,
+      "path": "select/07_Gone_(feat._Christine_and_the_Queens)_(Clarence_Clarity_Remix)_Charli_XCX.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Your Secrets (ft. Clarence Clarity)",
+      "artist": "Kai Whiston",
+      "has_synced": false,
+      "path": "select/08_Your_Secrets_(ft._Clarence_Clarity)_Kai_Whiston.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Free Woman (Rina Sawayama & Clarence Clarity Remix)",
+      "artist": "Lady Gaga feat. Rina Sawayama & Clarence Clarity",
+      "has_synced": true,
+      "path": "select/09_Free_Woman_(Rina_Sawayama_&_Clarence_Clarity_Remix)_Lady_Gaga_feat._Rina_Sawayama_&_Clarence_Clarity.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Free Woman (Rina Sawayama & Clarence Clarity Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/10_Free_Woman_(Rina_Sawayama_&_Clarence_Clarity_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Moment Of Clarity",
+      "artist": "Boards of Canada",
+      "has_synced": false,
+      "path": "select/11_A_Moment_Of_Clarity_Boards_of_Canada.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Clarity",
+      "artist": "John Mayer",
+      "has_synced": true,
+      "path": "select/12_Clarity_John_Mayer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moment of Clarity",
+      "artist": "Future feat. Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/13_Moment_of_Clarity_Future_feat._Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moment of Clarity",
+      "artist": "Future & Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/14_Moment_of_Clarity_Future_&_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Moment of Clarity",
+      "artist": "Death",
+      "has_synced": true,
+      "path": "select/15_A_Moment_of_Clarity_Death.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Moment of Clarity (1996 demo)",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/16_A_Moment_of_Clarity_(1996_demo)_Death.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Moment of Clarity (1996 Demos)",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/17_A_Moment_of_Clarity_(1996_Demos)_Death.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clarity",
+      "artist": "Vance Joy",
+      "has_synced": false,
+      "path": "select/pl_01_Clarity_Vance_Joy.txt"
+    }
+  ]
+}
